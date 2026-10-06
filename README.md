@@ -109,6 +109,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
+* [https://compress.hexloomlabs.com](https://compress.hexloomlabs.com/) : Compress and resize JPG, PNG and WebP images in the browser, with quality, size and target-file-size controls. Images are never uploaded and there is no sign-up. Free for 5 images per batch.
 
 ## D : 
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:
@@ -248,6 +249,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
 * [https://hiring.cafe](https://hiring.cafe) : HiringCafe is building a 100x better job search engine: fast, comprehensive, honest, and useful for real people making real career decisions.
 * [https://hearthcalc.com](https://hearthcalc.com/) : Free, no-signup calculators for everyday pet and sleep questions — dog chocolate toxicity, dog age, dog food portions, sleep cycles, caffeine cutoff — each showing the published source (Merck Veterinary Manual, ASPCA, AKC/AVMA, Sleep Foundation, NIH) behind its numbers. :free:
+* [https://hexloomlabs.com/doc-scrub/](https://hexloomlabs.com/doc-scrub/) : Remove author names, comments and hidden metadata (and tracked changes in Word files) from DOCX, XLSX, PPTX and PDF files in the browser. Nothing is uploaded. Free for 5 files at a time.
+* [https://hexloomlabs.com/exif/](https://hexloomlabs.com/exif/) : See and remove the EXIF, GPS and camera data inside a JPG, PNG or WebP photo before you share it. Nothing is uploaded. Free for 5 photos at a time.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:
@@ -349,6 +352,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 * [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
+* [https://merge-pdf.hexloomlabs.com](https://merge-pdf.hexloomlabs.com/) : Merge PDF files into one: drop them in, drag to reorder, download. It runs in your browser so nothing is uploaded, and there is no sign-up. Free for up to 5 files and 20MB total.
 
 ## N :
 * [https://nutilz.com](https://nutilz.com/) : 23 free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and more. No sign-up required. :free:
